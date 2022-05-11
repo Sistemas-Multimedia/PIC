@@ -1,0 +1,2 @@
+# PIC
+Progressive Image Compression.
